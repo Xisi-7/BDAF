@@ -45,5 +45,5 @@ pip install -r requirements.txt
   - Please move the downloaded pre-trained encoder into  /victims/[pre-dataset]/[method].
 
 - **Demo**
-./run_finetuning.sh
-./attack_test.sh
+-./run_finetuning.sh
+-./attack_test.sh
