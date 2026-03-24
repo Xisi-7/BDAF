@@ -44,6 +44,13 @@ pip install -r requirements.txt
   - All of our pre-trained encoders were obtained from the [solo-learn](https://github.com/vturrisi/solo-learn)  repository.
   - Please move the downloaded pre-trained encoder into  /victims/[pre-dataset]/[method].
 
-- **Demo**
--./run_finetuning.sh
--./attack_test.sh
+
+## Quick Start
+- **BDAF**
+```shell 
+./run_finetuning.sh
+```
+- **Robust testing accuracy**
+```shell 
+./attack_test.sh
+```
